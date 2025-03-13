@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j8xc068qf-python-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/j8xc068qf-python-gitops
